@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.todos-bg-container {
+    padding: 15px;
+}
+
+.todo-heading {
+    font-size: 39px;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-align: center;
+    padding-top: 20px;
+}
+
+.create-task-heading {
+    font-size: 31px;
+    font-weight: 600;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+
+.create-task-sb {
+    font-size: 31px;
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
+
+.user-input {
+    height: 50px;
+    width: 80%;
+    margin-top: 10px;
+    background-color: #e6f6ff;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 6px;
+}
+
+.todo-item-heading {
+    font-size: 31px;
+    font-weight: 600;
+    font-family: "Roboto";
+    padding-top: 20px;
+}
+
+.todo-item-sb {
+    font-size: 31px;
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 20px;
+}
+
+.todo-items-container {
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.todo-element {
+    margin-bottom: 10px;
+}
+
+.checkbox-input {
+    height: 20px;
+    width: 32px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.label-container {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+    border: solid;
+    border-color: #096f92;
+    border-width: 5px;
+    border-bottom: none;
+    border-top: none;
+    height: 50px;
+    width: 80%;
+
+
+}
+
+.label-element {
+    padding: 10px;
+    padding-left: 20px;
+    color: black;
+    font-size: 18px;
+}
+
+.del-container {
+    text-align: right;
+    margin: 10px;
+    padding-right: 20px;
+
+}
+
+.ab {
+    text-decoration: line-through;
+}
+
+.del-icon {
+    height: 40px;
+    width: 40px;
+
+}
+
+.checker {
+
+    text-decoration: line-through;
+}
